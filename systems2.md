@@ -1,1 +1,0 @@
-the system version is ventura 15.8

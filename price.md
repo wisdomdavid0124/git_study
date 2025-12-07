@@ -1,1 +1,1 @@
-price is $1000
+price is $1800
